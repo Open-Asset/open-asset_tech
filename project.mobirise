@@ -1,0 +1,1003 @@
+{
+  "settings": {
+    "name": "open-asset_tech",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#1f2326"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.3",
+    "uniqCompNum": 40,
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "animText1": "BLOCKCHAINS",
+            "animText2": "ICO`s",
+            "animText3": "BUSINESSES",
+            "typeSpeed": "80",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/11-2.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "OPEN-ASSET<br>FOR",
+          "text": "We work with databases built on blockchains. Our services are much appreciated by companies in a variety of different fields. Open-Asset develops services to increase the infrastructure in Sweden and the rest of the world. Our mission is to build a more open, accessible, more fair political and economic future. We work with a technology that is revolutionary within blockchain by verifying millions of transactions all over the world today.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">live dex</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header11",
+          "_anchor": "header11-0"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700"
+            },
+            ".display-6": {
+              "text-transform": "none",
+              "letter-spacing": "0px",
+              "font-weight": "400",
+              "color": "#fff"
+            },
+            ".mbr-cards-row": {
+              "margin-top": "40px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#434350",
+            "overlayOpacity": 0.9
+          },
+          "title": "<br><br>Our projects<br><br>",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bitshares-nu-svenskt-blockchain-arbete-open-asset-1600x900.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "ICO",
+          "caption1": "Open-Asset is currently working on an ICO that will be a blockchain gamechanger. More information will be released soon.",
+          "title2": "Responsive",
+          "subtitle2": "Payment Processing Gateway",
+          "caption2": "We are on the way to open a financial port to and from Scandinavia. We believe it should be as easy to buy and exchange crypto currency as to pay your monthly bills.",
+          "title3": "Web Fonts",
+          "subtitle3": "Bitshares Solutions",
+          "caption3": "We are developing a variety of services on top of the Bitshares platform. Everything from currency exchanges to gambling bots. Databases on blockchain will make busines -ses save large amounts every months",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Live DEX",
+          "caption4": "Your LIVE Decentralized Exchange. We are touching up the last work on a big project that we will launch on mid 2018.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features15",
+          "_anchor": "features15-1"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "letter-spacing": ".5vw",
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#1f2326",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f9593a",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "cubes",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
+              "name": "to-ftp",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "name": "globe",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60",
+              "family": "cm-icon"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features16",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fc7a60",
+              "family": "cm-icon"
+            }
+          },
+          "title": "Open-asset",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Partner recruting affiliate",
+          "caption1": "We are currently looking for partners and people that are willing to contribute to Blockchain and Bitshares in particular. Please contact us for being a partner in the Open-Asset network. Working together with us towards the same goal with the same vision can create fantastic results.",
+          "title2": "Responsive",
+          "subtitle2": "social media marketing",
+          "caption2": "You can follow us on several Telegram Groups and also on SLACK. We are trying to give awareness to the public communities and hopefully helping the users to understand the need for blockchain technology. We work for the future.",
+          "title3": "Web Fonts",
+          "subtitle3": "events / tradefairs",
+          "caption3": "We are attending meetups and tradefairs mostly in asia. Doing our best to spread the word about blockchain technology and Bitshares in particular. We believe in spreading the word physically as well as online.<br>Join our team!",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Websites",
+          "caption4": "Open-Asset is handing you direct information about the blockchain and updates about the communities and the next generation of technology. We are trying to break down all the information that today overwhelm us into easy-to-understand guides and websites.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features16",
+          "_anchor": "features16-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "stripedBars": false,
+            "progress1": 25,
+            "progress2": "46",
+            "progress3": "48",
+            "progress4": "57",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/08.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#34495e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#34495e",
+            "overlayOpacity": 0.85
+          },
+          "title": "Project Progress",
+          "text": "Updated progress for our different blockchains projects.<br>We are building several nodes for the Bitshares network and also increasing the nodes for Openledger. Open-Asset is trying to bring more stability and a more secure network for the people.",
+          "title1": "Ico",
+          "title2": "payment processing gateway",
+          "title3": "bitshares solutions",
+          "title4": "our nodes",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progress-bar4",
+          "_anchor": "progress-bar4-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#f1c40f"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Values",
+          "text11": "Investments",
+          "text12": "Fundings",
+          "text13": "Work proposals",
+          "text14": "<a href=\"donate.html\">Donate</a>",
+          "text15": "Charity log",
+          "title2": "projects",
+          "text21": "ICO",
+          "text22": "Swedish Payment Gateway",
+          "text23": "Database Works",
+          "text24": "Marketing Strategy",
+          "text25": "Investment Proposals",
+          "title3": "Learn more",
+          "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
+          "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
+          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
+          "text34": "Starter pack",
+          "text35": "Crypto Dictionary",
+          "title4": "Sign up",
+          "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
+          "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
+          "text43": "<a href=\"https://www.binance.com/?ref=11001799\">International DEX</a>",
+          "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Offentliga&nbsp;transaktioner</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "titled1": "Private policy",
+          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2018 Open-Asset",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "form": {
+            "action": "rydanmail@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer9",
+          "_anchor": "footer9-6"
+        }
+      ]
+    },
+    "donate.html": {
+      "settings": {
+        "title": "Donate",
+        "meta_descr": "If you like our work please donate to these adresses",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#f1c40f"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Values",
+          "text11": "Investments",
+          "text12": "Fundings",
+          "text13": "Work proposals",
+          "text14": "<a href=\"donate.html\">Donate</a>",
+          "text15": "Charity log",
+          "title2": "projects",
+          "text21": "ICO",
+          "text22": "Swedish Payment Gateway",
+          "text23": "Database Works",
+          "text24": "Marketing Strategy",
+          "text25": "Investment Proposals",
+          "title3": "Learn more",
+          "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
+          "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
+          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
+          "text34": "Starter pack",
+          "text35": "Crypto Dictionary",
+          "title4": "Sign up",
+          "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
+          "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
+          "text43": "<a href=\"https://www.binance.com/?ref=11001799\">International DEX</a>",
+          "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Offentliga&nbsp;transaktioner</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "titled1": "Private policy",
+          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2018 Open-Asset",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "form": {
+            "action": "rydanmail@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer9",
+          "_anchor": "footer9-c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "color": "#f39c12"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#f39c12"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/btc-qrcode-471x474.png",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/eth-qrcode-473x476.png",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/xrp-qrcode-475x463.png",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/04.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/05.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/06.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "Help Us Help You<br>Donate",
+          "title1": "Bootstrap 4",
+          "subtitle1": "BITCOIN",
+          "caption1": "3GrY9P9a1SYMnwBFnTyc7o5sofKPAm2RtT<br><br><br><br><br><br><br><br>",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "ETHEREUM",
+          "caption2": "0x20358D927f467255FB9aaCa76158262537Fed780",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "RIPPLE",
+          "caption3": "rLUrCSr3FzsumQ6vqtNSKSFpmsKAmRf3sb",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-s"
+        }
+      ]
+    },
+    "starterpack.html": {
+      "settings": {
+        "title": "Starter Pack",
+        "meta_descr": "You get your crypto starterpack here",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "animText1": "Token",
+            "animText2": "Advice",
+            "animText3": "Solutions",
+            "typeSpeed": "80",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/11-2.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "OPEN-ASSET<br>Free &nbsp;",
+          "text": "<b>OUR MISSION<br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EDUCATE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DEVELOP</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Manage</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header11",
+          "_anchor": "header11-t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#f1c40f"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Values",
+          "text11": "Investments",
+          "text12": "Fundings",
+          "text13": "Work proposals",
+          "text14": "<a href=\"donate.html\">Donate</a>",
+          "text15": "Charity log",
+          "title2": "projects",
+          "text21": "ICO",
+          "text22": "Swedish Payment Gateway",
+          "text23": "Database Works",
+          "text24": "Marketing Strategy",
+          "text25": "Investment Proposals",
+          "title3": "Learn more",
+          "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
+          "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
+          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
+          "text34": "Starter pack",
+          "text35": "Crypto Dictionary",
+          "title4": "Sign up",
+          "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
+          "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
+          "text43": "<a href=\"https://www.binance.com/?ref=11001799\">International DEX</a>",
+          "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Offentliga&nbsp;transaktioner</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "titled1": "Private policy",
+          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2018 Open-Asset",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "form": {
+            "action": "rydanmail@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer9",
+          "_anchor": "footer9-x"
+        }
+      ]
+    },
+    "work_proposals.html": {
+      "settings": {
+        "title": "Work Proposals",
+        "meta_descr": "Find all the workproposals for the Bitshares community",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700"
+            },
+            ".display-6": {
+              "text-transform": "none",
+              "letter-spacing": "0px",
+              "font-weight": "400",
+              "color": "#fff"
+            },
+            ".mbr-cards-row": {
+              "margin-top": "40px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#434350",
+            "overlayOpacity": 0.9
+          },
+          "title": "<br><br>Work Proposals",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bitshares-nu-svenskt-blockchain-arbete-open-asset-1600x900.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bitshares",
+          "caption1": "Open-Asset is currently working on an ICO that will be a blockchain gamechanger. More information will be released soon.",
+          "title2": "Responsive",
+          "subtitle2": "Open-Asset",
+          "caption2": "We are now on the way to open a financial port to and from Scandinavia. We believe it should be as easy to buy and exchange crypto currency as to pay your monthly bills.",
+          "title3": "Web Fonts",
+          "subtitle3": "Bitshares Solutions",
+          "caption3": "We are developing a variety of services on top of the Bitshares platform. Everything from currency exchanges to gambling bots. Databases on blockchain will make busines -ses save large amounts every months",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Live DEX",
+          "caption4": "Your LIVE Decentralized Exchange. We are touching up the last work on a big project that we will launch on mid 2018.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features15",
+          "_anchor": "features15-z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#f1c40f"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Values",
+          "text11": "Investments",
+          "text12": "Fundings",
+          "text13": "Work proposals",
+          "text14": "<a href=\"donate.html\">Donate</a>",
+          "text15": "Charity log",
+          "title2": "projects",
+          "text21": "ICO",
+          "text22": "Swedish Payment Gateway",
+          "text23": "Database Works",
+          "text24": "Marketing Strategy",
+          "text25": "Investment Proposals",
+          "title3": "Learn more",
+          "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
+          "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
+          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
+          "text34": "Starter pack",
+          "text35": "Crypto Dictionary",
+          "title4": "Sign up",
+          "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
+          "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
+          "text43": "<a href=\"https://www.binance.com/?ref=11001799\">International DEX</a>",
+          "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Offentliga&nbsp;transaktioner</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "titled1": "Private policy",
+          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2018 Open-Asset",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "form": {
+            "action": "rydanmail@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer9",
+          "_anchor": "footer9-12"
+        }
+      ]
+    }
+  }
+}
