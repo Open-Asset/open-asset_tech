@@ -72,7 +72,7 @@
           },
           "title": "OPEN-ASSET<br>FOR",
           "text": "We work with databases built on blockchains. Our services are much appreciated by companies in a variety of different fields. Open-Asset develops services to increase the infrastructure in Sweden and the rest of the world. Our mission is to build a more open, accessible, more fair political and economic future. We work with a technology that is revolutionary within blockchain by verifying millions of transactions all over the world today.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\" data-toolbar=\"-mbrBtnMove\">&nbsp;live dex</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features15-1\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\" data-toolbar=\"-mbrBtnMove\">&nbsp;live dex</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "alias": "colorm/components",
           "_tags": [
