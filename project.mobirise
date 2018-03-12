@@ -376,9 +376,9 @@
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
           "text": "Copyright (c) 2018 Open-Asset",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "form": {
-            "action": "rydanmail@hotmail.com",
+            "action": "open-asset.net@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -400,7 +400,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -481,7 +481,7 @@
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
           "text": "Copyright (c) 2018 Open-Asset",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "form": {
             "action": "rydanmail@hotmail.com",
             "alerts": {
@@ -505,7 +505,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -794,7 +794,7 @@
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
           "text": "Copyright (c) 2018 Open-Asset",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "form": {
             "action": "rydanmail@hotmail.com",
             "alerts": {
@@ -818,7 +818,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -965,7 +965,7 @@
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
           "text": "Copyright (c) 2018 Open-Asset",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-hashtag mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-telegram mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(241, 196, 15);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(241, 196, 15);\"></span></a>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "form": {
             "action": "rydanmail@hotmail.com",
             "alerts": {
@@ -989,7 +989,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
