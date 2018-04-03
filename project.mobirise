@@ -26,8 +26,8 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 40,
-    "versionPublish": "4.6.6",
+    "uniqCompNum": 41,
+    "versionPublish": "4.6.7",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -56,30 +56,44 @@
             "animText1": "BLOCKCHAINS",
             "animText2": "ICO`s",
             "animText3": "BUSINESSES",
-            "typeSpeed": "80",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/11-2.jpg",
-            "parallax": false,
+            "typeSpeed": "100",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/bitshares_nu-electron-blockchain-open-asset-2000x1125.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/iGpuQ0ioPrM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/iGpuQ0ioPrM",
+              "width": 1280,
+              "height": 720
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
           },
           "title": "OPEN-ASSET<br>FOR",
           "text": "We work with databases built on blockchains. Our services are much appreciated by companies in a variety of different fields. Open-Asset develops services to increase the infrastructure in Sweden and the rest of the world. Our mission is to build a more open, accessible, more fair political and economic future. We work with a technology that is revolutionary within blockchain by verifying millions of transactions all over the world today.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features15-1\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\" data-toolbar=\"-mbrBtnMove\">&nbsp;live dex</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features15-1\" data-toolbar=\"-mbrBtnMove\">Live Chat</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\" data-toolbar=\"-mbrBtnMove\">&nbsp;live dex</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header11",
-          "_anchor": "header11-0"
+          "_anchor": "header11-0",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "24px",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
+            },
+            "H1": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -158,6 +172,9 @@
               "text-transform": "uppercase",
               "letter-spacing": "2px",
               "color": "#fff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -169,16 +186,16 @@
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bitshares_nu-blocktech2-open-asset-835x575.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#1f2326",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#f9593a",
+            "overlay": false,
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.9
           },
           "media1": {
@@ -319,6 +336,11 @@
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#f1c40f"
+            },
+            "B": {
+              "color": "#dddddd",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -363,15 +385,15 @@
           "title3": "Learn more",
           "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
           "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
-          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
-          "text34": "Starter pack",
-          "text35": "Crypto Dictionary",
+          "text33": "<a href=\"http://bitshares.wiki\" class=\"text-white\">Guides</a>",
+          "text34": "<b>Bitshares Solution</b>",
+          "text35": "<a href=\"https://docs.google.com/spreadsheets/d/1jTi-jxs6PqZxXS7JPOAU9ar-2eK-x0roZDaabPzodV0/edit?usp=sharing\" target=\"_blank\">Crypto Dictionary</a>",
           "title4": "Sign up",
           "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
           "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
           "text43": "<a href=\"https://www.binance.com/?ref=11001799\">Binance CEX</a>",
           "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Bitshares Block Explorer</a>",
-          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai Exchange</a>",
           "titled1": "Private policy",
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
@@ -417,13 +439,18 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#f1c40f"
+            },
+            "B": {
+              "color": "#dddddd",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -468,15 +495,15 @@
           "title3": "Learn more",
           "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
           "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
-          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
-          "text34": "Starter pack",
-          "text35": "Crypto Dictionary",
+          "text33": "<a href=\"http://bitshares.wiki\" class=\"text-white\">Guides</a>",
+          "text34": "<b>Bitshares Solution</b>",
+          "text35": "<a href=\"https://docs.google.com/spreadsheets/d/1jTi-jxs6PqZxXS7JPOAU9ar-2eK-x0roZDaabPzodV0/edit?usp=sharing\" target=\"_blank\">Crypto Dictionary</a>",
           "title4": "Sign up",
           "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
           "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
           "text43": "<a href=\"https://www.binance.com/?ref=11001799\">Binance CEX</a>",
           "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Bitshares Block Explorer</a>",
-          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai Exchange</a>",
           "titled1": "Private policy",
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
@@ -696,7 +723,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -737,6 +764,11 @@
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#f1c40f"
+            },
+            "B": {
+              "color": "#dddddd",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -781,15 +813,15 @@
           "title3": "Learn more",
           "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
           "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
-          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
-          "text34": "Starter pack",
-          "text35": "Crypto Dictionary",
+          "text33": "<a href=\"http://bitshares.wiki\" class=\"text-white\">Guides</a>",
+          "text34": "<b>Bitshares Solution</b>",
+          "text35": "<a href=\"https://docs.google.com/spreadsheets/d/1jTi-jxs6PqZxXS7JPOAU9ar-2eK-x0roZDaabPzodV0/edit?usp=sharing\" target=\"_blank\">Crypto Dictionary</a>",
           "title4": "Sign up",
           "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
           "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
           "text43": "<a href=\"https://www.binance.com/?ref=11001799\">Binance CEX</a>",
           "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Bitshares Block Explorer</a>",
-          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai Exchange</a>",
           "titled1": "Private policy",
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
@@ -835,7 +867,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -908,6 +940,11 @@
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#f1c40f"
+            },
+            "B": {
+              "color": "#dddddd",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -952,15 +989,15 @@
           "title3": "Learn more",
           "text31": "<a href=\"mailto:openasset.net@gmail.com\">Support</a>",
           "text32": "<a href=\"https://github.com/Open-Asset\">Developers</a>",
-          "text33": "<a href=\"http://bitshares.wiki\">Guides</a>",
-          "text34": "Starter pack",
-          "text35": "Crypto Dictionary",
+          "text33": "<a href=\"http://bitshares.wiki\" class=\"text-white\">Guides</a>",
+          "text34": "<b>Bitshares Solution</b>",
+          "text35": "<a href=\"https://docs.google.com/spreadsheets/d/1jTi-jxs6PqZxXS7JPOAU9ar-2eK-x0roZDaabPzodV0/edit?usp=sharing\" target=\"_blank\">Crypto Dictionary</a>",
           "title4": "Sign up",
           "text41": "<a href=\"https://wallet.bitshares.org/#/create-account/?r=open-asset\">Bitshares</a>",
           "text42": "<a href=\"https://openledger.info/?r=open-asset#/create-account/\">OpenLedger</a>",
           "text43": "<a href=\"https://www.binance.com/?ref=11001799\">Binance CEX</a>",
           "text44": "<a href=\"http://bitshares-explorer.io/#/dashboard\">Bitshares Block Explorer</a>",
-          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai DEX</a>",
+          "text45": "<a href=\"https://bx.in.th/ref/8WdkuH/\">Thai Exchange</a>",
           "titled1": "Private policy",
           "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",

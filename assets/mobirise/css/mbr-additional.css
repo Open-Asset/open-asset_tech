@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
 
 
 
@@ -718,6 +721,14 @@ blockquote {
   font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
+#header11-0 P {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Arvo', serif;
+}
+#header11-0 H1 {
+  color: #ffffff;
+}
 #features15-1 .mbr-section-title {
   font-weight: 700;
 }
@@ -740,11 +751,23 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
+#features16-3 .mbr-section-text {
+  color: #ffffff;
+}
 #footer9-6 .mbr-section-subtitle {
   color: #f1c40f;
 }
+#footer9-6 B {
+  color: #dddddd;
+  font-family: 'Oxygen', sans-serif;
+}
+
 #footer9-c .mbr-section-subtitle {
   color: #f1c40f;
+}
+#footer9-c B {
+  color: #dddddd;
+  font-family: 'Oxygen', sans-serif;
 }
 #features1-s .mbr-section-title {
   font-weight: 700;
@@ -755,9 +778,15 @@ blockquote {
   letter-spacing: 2px;
   color: #f39c12;
 }
+
 #footer9-x .mbr-section-subtitle {
   color: #f1c40f;
 }
+#footer9-x B {
+  color: #dddddd;
+  font-family: 'Oxygen', sans-serif;
+}
+
 #features15-z .mbr-section-title {
   font-weight: 700;
 }
@@ -772,4 +801,8 @@ blockquote {
 }
 #footer9-12 .mbr-section-subtitle {
   color: #f1c40f;
+}
+#footer9-12 B {
+  color: #dddddd;
+  font-family: 'Oxygen', sans-serif;
 }
